@@ -19,6 +19,7 @@ void solve(int col,vector<string>&board, vector<vector<string>>&ans,vector<int>&
         }
     }
 }
+
 public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
